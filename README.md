@@ -8,7 +8,7 @@ Commonly referred to as GRASS (Geographic Resources Analysis Support System), is
 
 <!-- MarkdownTOC depth=4 -->
 - [Tutorials](#tutorials)
-- [Projects](#github-projects)
+- [Projects](#projects)
 - [Addon Tools](#addons)
 - [Videos](#video)
 - [Papers](#papers)
@@ -22,4 +22,37 @@ Commonly referred to as GRASS (Geographic Resources Analysis Support System), is
 
 ## Tutorials
 
-* [Processing lidar and UAV point clouds in GRASS GIS (workshop at FOSS4G Boston 2017)](https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)) - "...explore the properties of the point cloud, interpolate surfaces, and perform advanced terrain analyses to detect landforms and artifacts..."
+* [Processing lidar and UAV point clouds in GRASS GIS](https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017)) - Workshop at FOSS4G Boston 2017, "...explore the properties of the point cloud, interpolate surfaces, and perform advanced terrain analyses to detect landforms and artifacts..."
+
+<a name="projects" />
+
+## Projects
+
+<a name="Addon Tools" />
+
+## Addon Tools
+
+* [How to write a Python GRASS GIS 7 addon](https://github.com/wenzeslaus/python-grass-addon) - FOSS4G Europe 2015 workshop, "...what if the tool you are looking for is not present in GRASS GIS? So, simply create your own..."
+
+* [r.valley.bottom](https://github.com/hellik/r.valley.bottom) - calculates a Multi-resolution Valley Bottom Flatness (MrVBF) index.
+
+* [v.sites.cont, v.edges.cont, v.streams.netid](https://github.com/johnDorian/grass_addons) - v.sites.cont, v.edges.cont, v.streams.netid are mainly designed to be used in conjunction with the r.stream to create stream spatial networks to be used with the R SSN package.
+
+<a name="video" />
+
+## Videos
+
+* [GRASS GIS A Point Cloud (LiDAR) Evaluation Resource](https://youtu.be/Fj0TO4ZKEc0) - ASPRS GeoByte 2017
+<a name="papers" />
+
+## Papers
+
+<a name="blogs" />
+
+## Blog Posts
+
+<a name="books" />
+
+## Books
+
+* [Open Source GIS: A GRASS GIS Approach](https://grassbook.org/) - _Markus Neteler and Helena Mitasova, 2008_, Contents: 1 Open Source software and GIS; 2 GIS concepts; 3 Getting started with GRASS; 4 GRASS data models and data exchange; 5 Working with raster data; 6 Working with vector data; 7 Graphical output and visualization; 8 Image processing; 9 Notes on GRASS programming; 10 Using GRASS with other Open Source tools
